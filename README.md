@@ -1,7 +1,7 @@
 # PollingPriorityQueueViaHeapSort
 # Priority Queues and Heapsort with Polling Data
 
-This repository contains a Java-based implementation for processing Democratic primary polling data sing principles of Object-Oriented Programming (OOP). The main objective is to utilize a heap to sort the candidates based on their polling numbers, thereby determining the leading candidates. Additionally, a Priority Queue is implemented.
+This project is a continuation of the investigation into Democratic primary polling data. This repository contains a Java-based implementation for processing Democratic primary polling data sing principles of Object-Oriented Programming (OOP). The main objective is to utilize a heap to sort the candidates based on their polling numbers, thereby determining the leading candidates. Additionally, a Priority Queue is implemented.
 
 ## Table of Contents
 
